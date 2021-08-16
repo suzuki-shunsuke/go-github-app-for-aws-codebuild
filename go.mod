@@ -1,4 +1,4 @@
-module github.com/suzuki-shunsuke/go-github-app-for-codebuild
+module github.com/suzuki-shunsuke/go-github-app-for-aws-codebuild
 
 go 1.16
 
