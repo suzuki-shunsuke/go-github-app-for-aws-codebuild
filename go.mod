@@ -5,6 +5,7 @@ go 1.16
 require (
 	github.com/aws/aws-sdk-go v1.41.14
 	github.com/bradleyfalzon/ghinstallation v1.1.1
+	github.com/bradleyfalzon/ghinstallation/v2 v2.0.3
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/google/go-github/v38 v38.1.0
 )
